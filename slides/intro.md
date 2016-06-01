@@ -1,16 +1,18 @@
-## TODO Title
+## Merging the Great Divide
 
-### 1st Meetup - APEX 5
+### Bridging Desktop & APEX
 
-giffy
 
 <p class="no-bullet"></p>
-- <i class="fa fa-users"></i> [Meetup](http://www.meetup.com/orclapex-YYC/)
-- <i class="fa fa-github"></i> [orclapex-yyc](https://github.com/orclapex-yyc)
+- <i class="fa fa-twitter"></i> [martindsouza](https://twitter.com/martin)
+- <i class="fa fa-rss"></i> [www.talkapex.com](http://www.talkapex.com)
+- <i class="fa fa-github"></i> [martindsouza](https://github.com/martindsouza)
+- <i class="fa fa-envelope-o"></i> [mdsouza@insum.ca](mailto:mdsouza@insum.ca)
+- <i class="fa fa-building-o"></i> [Insum Solutions](http://www.insum.ca)
 
 </br>
-- Presentation: [TODO](TODO)
-- Slides: [TODO](TODO)
+- Presentation: [bit.ly/electron-apex](http://bit.ly/electron-apex)
+- Slides: [github.com/martindsouza/pres-electron-apex](https://github.com/martindsouza/pres-electron-apex)
 
 Notes:
 - [Turn off notes](javascript: Reveal.configure({"showNotes": false}&#41;;)
@@ -19,21 +21,4 @@ Notes:
 new-slide-vertical
 # Agenda
 
-
-- Intro
-- APEX 5
-- APEX Resources
-- Wrap up
-
-new-slide-vertical
-
-# Presented By
-
-Martin Giffy D'Souza
-
-![aced](www/img/logo-aced.png)<!-- .element: class="logo-aced" -->
-
-<p class="no-bullet"></p>
-- <i class="fa fa-twitter"></i> [martindsouza](https://twitter.com/martindsouza)
-- <i class="fa fa-rss"></i> [talkapex.com](http://www.talkapex.com)
-- <i class="fa fa-github"></i> [martindsouza](https://github.com/martindsouza)
+TODO
