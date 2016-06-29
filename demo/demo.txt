@@ -12,8 +12,8 @@ npm install
 
 
 *** RUN ***
+- Menu
 - Logger
 - System Information
 - Downloads Folder
-- Menu
 - XML2JSON
