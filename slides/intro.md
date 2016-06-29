@@ -1,6 +1,4 @@
-## Merging the Great Divide
-
-### Bridging Desktop & APEX
+## Electron & APEX
 
 
 <p class="no-bullet"></p>
@@ -17,8 +15,21 @@
 Notes:
 - [Turn off notes](javascript: Reveal.configure({"showNotes": false}&#41;;)
 
+new-slide-vertical
 
 new-slide-vertical
 # Agenda
 
-TODO
+</br>
+- Intro
+- About Electron
+- Demo
+- Conclusion
+
+new-slide-vertical
+<!-- .slide: data-background="red" -->
+# <i class="fa fa-exclamation-triangle  fa-3x white"></i>
+
+Notes:
+- This is still in R&D mode at Insum. </br>
+- Anything you see is not being actively used

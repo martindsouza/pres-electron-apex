@@ -1,0 +1,19 @@
+- Initialize
+
+Copy:
+- package.json
+- assets
+- config
+
+npm install
+# Fixes the NJS-008 error
+./node_modules/.bin/electron-rebuild -f -w oracledb
+
+
+
+*** RUN ***
+- Logger
+- System Information
+- Downloads Folder
+- Menu
+- XML2JSON
